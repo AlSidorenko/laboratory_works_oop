@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>practical_work_002</OriginalElement>
+  <nodes>
+    <node x="-86.0" y="-59.0">practical_work_002.Composition</node>
+    <node x="175.0" y="-8.0">practical_work_002.Executor</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="145.5" y="91.5" />
+  <SelectedNodes>
+    <node>practical_work_002.Executor</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
