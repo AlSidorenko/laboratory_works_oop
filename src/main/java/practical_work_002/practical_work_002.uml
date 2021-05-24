@@ -3,14 +3,16 @@
   <ID>JAVA</ID>
   <OriginalElement>practical_work_002</OriginalElement>
   <nodes>
-    <node x="-86.0" y="-59.0">practical_work_002.Composition</node>
-    <node x="175.0" y="-8.0">practical_work_002.Executor</node>
+    <node x="150.0" y="242.5">practical_work_002.MainExecutor</node>
+    <node x="-109.5" y="-131.0">practical_work_002.Composition</node>
+    <node x="150.0" y="-87.0">practical_work_002.Executor</node>
+    <node x="-119.5" y="250.5">practical_work_002.MainCompos</node>
   </nodes>
   <notes />
   <edges />
-  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="145.5" y="91.5" />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="106.5" y="121.5" />
   <SelectedNodes>
-    <node>practical_work_002.Executor</node>
+    <node>practical_work_002.MainExecutor</node>
   </SelectedNodes>
   <Categories>
     <Category>Constructors</Category>
