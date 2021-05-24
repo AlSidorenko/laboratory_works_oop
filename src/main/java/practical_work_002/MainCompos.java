@@ -17,14 +17,14 @@ public class MainCompos {
 
         // 1 - Создаем объект Composition
         composition = new Composition();
-        composition.setTitle("Война и мир");
+        composition.setTitle("Мистецтво війни");
         composition.setSize(1000);
         composition.setProfit(500);
         System.out.println(composition);
         System.out.println();
 
         // 2 - Создаем объект Composition
-        composition = new Composition("Анна Каренина");
+        composition = new Composition("Шлях самурая");
         System.out.println(composition);
         System.out.println();
 

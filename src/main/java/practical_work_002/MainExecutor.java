@@ -17,8 +17,8 @@ public class MainExecutor {
 
         // 1 - Создаем объект Composition
         executor = new Executor();
-        executor.setName("David");
-        executor.setSurname("Syd");
+        executor.setName("Тарас");
+        executor.setSurname("Шевченко");
         System.out.println(executor);
         System.out.println();
 

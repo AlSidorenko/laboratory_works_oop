@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
         // MusicalСomposition
         MusicalСomposition musicalComposition = new MusicalСomposition();
-        musicalComposition.setPerformer(new Performer("David", "Syd"));
+        musicalComposition.setPerformer(new Performer("Мирослав", "Скорик"));
         musicalComposition.setSoundDuration(10);
 
         System.out.println(musicalComposition);
@@ -22,7 +22,7 @@ public class Main {
         System.out.println();
 
         // PrintEdition
-        Performer performer = new Performer("Alec", "Syd");
+        Performer performer = new Performer("Михайло", "Вербицький");
         PrintEdition printEdition = new PrintEdition(1000, 500, performer, 250);
         System.out.println(printEdition);
 
