@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>practical_work_006</OriginalElement>
+  <nodes>
+    <node x="502.2412587412588" y="88.0">practical_work_006.Sorting</node>
+    <node x="257.0" y="88.0">practical_work_006.Author</node>
+    <node x="20.5" y="0.0">practical_work_006.Composition</node>
+    <node x="0.0" y="327.0">practical_work_006.MusicalСomposition</node>
+    <node x="602.2412587412588" y="221.0">practical_work_006.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="practical_work_006.MusicalСomposition" target="practical_work_006.Composition" relationship="GENERALIZATION">
+      <point x="0.0" y="-94.5" />
+      <point x="0.0" y="138.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="426.0" y="258.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
