@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>practical_work_005</OriginalElement>
+  <nodes>
+    <node x="-137.0" y="241.0">practical_work_005.MusicalСomposition</node>
+    <node x="147.0" y="247.0">practical_work_005.PrintEdition</node>
+    <node x="29.5" y="-96.0">practical_work_005.Composition</node>
+    <node x="605.0" y="-64.0">practical_work_005.Performer</node>
+    <node x="271.0" y="-75.0">practical_work_005.Concert</node>
+    <node x="414.5" y="241.0">practical_work_005.Author</node>
+    <node x="632.0" y="249.0">practical_work_005.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="practical_work_005.PrintEdition" target="practical_work_005.Composition" relationship="GENERALIZATION">
+      <point x="0.0" y="-94.5" />
+      <point x="249.0" y="227.0" />
+      <point x="105.0" y="227.0" />
+      <point x="0.0" y="138.5" />
+    </edge>
+    <edge source="practical_work_005.MusicalСomposition" target="practical_work_005.Composition" relationship="GENERALIZATION">
+      <point x="0.0" y="-94.5" />
+      <point x="-41.0" y="227.0" />
+      <point x="105.0" y="227.0" />
+      <point x="0.0" y="138.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="322.0" y="170.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
