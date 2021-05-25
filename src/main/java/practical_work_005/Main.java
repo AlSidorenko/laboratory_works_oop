@@ -1,7 +1,5 @@
 package practical_work_005;
 
-import practical_work_002.Composition;
-
 import java.util.Arrays;
 
 /**
@@ -19,15 +17,15 @@ public class Main {
 
         // First composition
         Performer performer1 = new Performer("Оркестр", "Національної Філармонія України");
-        MusicalСomposition [] musicalСompositions1 = {
+        MusicalСomposition[] musicalСompositions1 = {
                 new MusicalСomposition(new Author("Мирослав", "Скорик"), 120),
                 new MusicalСomposition(new Author("Микола", "Лисенко"), 90)
         };
         concert[0] = new Concert(performer1, musicalСompositions1);
 
         // Second composition
-        Performer performer2 = new Performer("Оркест", "ім. Миколи Лисенка");
-        MusicalСomposition [] musicalСompositions2 = {
+        Performer performer2 = new Performer("Оркестр", "ім. Миколи Лисенка");
+        MusicalСomposition[] musicalСompositions2 = {
                 new MusicalСomposition(new Author("Михайло", "Вербицький"), 120),
                 new MusicalСomposition(new Author("Сергій", "Прокоф'єв"), 90)
         };
