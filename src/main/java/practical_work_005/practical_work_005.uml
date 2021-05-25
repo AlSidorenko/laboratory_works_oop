@@ -3,30 +3,32 @@
   <ID>JAVA</ID>
   <OriginalElement>practical_work_005</OriginalElement>
   <nodes>
-    <node x="-137.0" y="241.0">practical_work_005.MusicalСomposition</node>
-    <node x="147.0" y="247.0">practical_work_005.PrintEdition</node>
-    <node x="29.5" y="-96.0">practical_work_005.Composition</node>
-    <node x="605.0" y="-64.0">practical_work_005.Performer</node>
-    <node x="271.0" y="-75.0">practical_work_005.Concert</node>
-    <node x="414.5" y="241.0">practical_work_005.Author</node>
-    <node x="632.0" y="249.0">practical_work_005.Main</node>
+    <node x="-179.68181818181816" y="324.5">practical_work_005.PrintEdition</node>
+    <node x="117.40909090909099" y="327.0">practical_work_005.MusicalСomposition</node>
+    <node x="-17.630612244897975" y="-72.68571428571428">practical_work_005.Composition</node>
+    <node x="887.6143784786643" y="324.5">practical_work_005.MyException</node>
+    <node x="610.0673933209647" y="327.0">practical_work_005.MainException</node>
+    <node x="631.9653061224491" y="-72.68571428571425">practical_work_005.Performer</node>
+    <node x="294.5" y="-72.68571428571427">practical_work_005.Concert</node>
+    <node x="855.4306122448982" y="-72.68571428571425">practical_work_005.Author</node>
+    <node x="402.5000000000001" y="333.5331168831169">practical_work_005.Main</node>
   </nodes>
   <notes />
   <edges>
     <edge source="practical_work_005.PrintEdition" target="practical_work_005.Composition" relationship="GENERALIZATION">
       <point x="0.0" y="-94.5" />
-      <point x="249.0" y="227.0" />
-      <point x="105.0" y="227.0" />
+      <point x="-77.68181818181816" y="302.0" />
+      <point x="57.869387755102025" y="302.0" />
       <point x="0.0" y="138.5" />
     </edge>
     <edge source="practical_work_005.MusicalСomposition" target="practical_work_005.Composition" relationship="GENERALIZATION">
       <point x="0.0" y="-94.5" />
-      <point x="-41.0" y="227.0" />
-      <point x="105.0" y="227.0" />
+      <point x="213.409090909091" y="302.0" />
+      <point x="57.869387755102025" y="302.0" />
       <point x="0.0" y="138.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="322.0" y="170.0" />
+  <settings layout="Hierarchic" zoom="0.7954545454545455" showDependencies="false" x="426.0" y="221.5" />
   <SelectedNodes />
   <Categories>
     <Category>Fields</Category>
