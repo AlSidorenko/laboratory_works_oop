@@ -3,23 +3,31 @@
   <ID>JAVA</ID>
   <OriginalElement>practical_work_006</OriginalElement>
   <nodes>
-    <node x="502.2412587412588" y="88.0">practical_work_006.Sorting</node>
-    <node x="257.0" y="88.0">practical_work_006.Author</node>
-    <node x="20.5" y="0.0">practical_work_006.Composition</node>
-    <node x="0.0" y="327.0">practical_work_006.MusicalСomposition</node>
-    <node x="602.2412587412588" y="221.0">practical_work_006.Main</node>
+    <node x="503.5" y="14.251748251748154">practical_work_006.Sorting</node>
+    <node x="272.0" y="0.0">practical_work_006.Author</node>
+    <node x="0.0" y="394.0">practical_work_006.MusicalСomposition</node>
+    <node x="32.0" y="0.0">practical_work_006.Composition</node>
+    <node x="493.0" y="139.6258741258741">practical_work_006.MusicalCompositionAuthorSurnameComparator</node>
+    <node x="350.5244755244753" y="571.0">practical_work_006.MainSortSoundDuration</node>
+    <node x="866.6433566433566" y="571.0">practical_work_006.MainSortAuthorSurname</node>
+    <node x="610.083916083916" y="571.0">practical_work_006.MainSortAuthorName</node>
+    <node x="502.0" y="265.0">practical_work_006.MusicalСompositionAuthorNameComparator</node>
   </nodes>
   <notes />
   <edges>
     <edge source="practical_work_006.MusicalСomposition" target="practical_work_006.Composition" relationship="GENERALIZATION">
-      <point x="0.0" y="-94.5" />
-      <point x="0.0" y="138.5" />
+      <point x="0.0" y="-128.0" />
+      <point x="0.0" y="172.0" />
     </edge>
   </edges>
-  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="426.0" y="258.0" />
-  <SelectedNodes />
+  <settings layout="Hierarchic" zoom="0.8537313432835821" showDependencies="false" x="541.0" y="325.0" />
+  <SelectedNodes>
+    <node>practical_work_006.MainSortAuthorSurname</node>
+  </SelectedNodes>
   <Categories>
+    <Category>Constructors</Category>
     <Category>Fields</Category>
+    <Category>Inner Classes</Category>
     <Category>Methods</Category>
   </Categories>
   <SCOPE>All</SCOPE>
